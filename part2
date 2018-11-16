@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>UGA Men's Tennis</title>
+	<style>
+	h1 {
+	color: white;
+	font-family: verdana;
+	font-size: 300%;
+	text-align: center;
+	}
+	h2 {
+	color: gray;
+	font-family: verdana;
+	font-size: 175%;
+	text-align: center;
+	text-decoration: underline;
+	}
+	p {
+	color: red;
+	font-family: courier;
+	font-size: 160%;
+	text-align: center;
+	}
+	ul {color: red;
+	font-family: courier;
+	font-size: 160%;
+	text-align: center;
+	}
+	ol {color: red;
+	font-family: courier;
+	font-size: 160%;
+	text-align: center;
+	}
+	a {color: white;
+	}
+	blockquote {
+	color: white;
+	font-family: courier;
+	font-size: 100%;
+	text-align: center;
+	}
+	form {
+	color: red;
+	font-family: courier;
+	font-size: 160%;
+	text-align: center;
+	}
+	.button {
+	font: bold 11px Arial;
+	text-decoration: none;
+	background-color: white;
+	color: Black;
+	padding: 2px 6px 2px 6px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+	}
+	h6 {
+	color: white;
+	font-family: courier;
+	font-size: 80%;
+	text-align: center;
+	}
+	</style>
+	</head>
+	<body style="background-color:black">
+	<h1>The UGA Men's Tennis Team</h1>
+	<table align="center">
+	<tr>
+	<td><img src="UGA Mens Tennis 1.jpg" alt="Ignacio Nacho" width="512" height="288"></td>
+	<td><img src="UGA Mens Tennis 3.png" alt="UGA Tennis Center" width="288" height="288"></td>
+	<td><img src="UGA Mens Tennis 2.jpg" alt="Emil Reinberg" width="512" height="288"></td>
+	</tr>
+	</table>
+	<h2>This Year's Team</h2>
+	<p>This year, there are eleven players on the team's official roster.</p>
+	<p>There are three seniors:</p>
+	<ul>
+	<li>Andy Martinez (Atlanta, GA)</li>
+	<li>Wayne Montgomery (Somerset West, South Africa)</li>
+	<li>Paul Oosterbaan (Kalamazoo, MI)</li>
+	</ul>
+	<p>There are three juniors:</p>
+	<ul>
+	<li>Walker Duncan (Atlanta, GA)</li>
+	<li>Emil Reinberg (Atlanta, GA, Pictured Above)</li>
+	<li>Jan Zielinski (Warsaw, Poland)</li>
+	</ul>
+	<p>There are four sophomores:</p>
+	<ul>
+	<li>Samuel Dromsky (Augusta, GA)</li>
+	<li>Robert Loeb (Hilton Head, SC)</li>
+	<li>Alex Phillips (Peachtree City, GA)</li>
+	<li>Nathan Ponwith (Scottsdale, AZ)</li>
+  </body>
+  </html>
