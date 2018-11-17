@@ -1,99 +1,120 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-	<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>UGA Men's Tennis</title>
-	<style>
-	h1 {
-	color: white;
-	font-family: verdana;
-	font-size: 300%;
-	text-align: center;
-	}
-	h2 {
-	color: gray;
-	font-family: verdana;
-	font-size: 175%;
-	text-align: center;
-	text-decoration: underline;
-	}
-	p {
-	color: red;
-	font-family: courier;
-	font-size: 160%;
-	text-align: center;
-	}
-	ul {color: red;
-	font-family: courier;
-	font-size: 160%;
-	text-align: center;
-	}
-	ol {color: red;
-	font-family: courier;
-	font-size: 160%;
-	text-align: center;
-	}
-	a {color: white;
-	}
-	blockquote {
-	color: white;
-	font-family: courier;
-	font-size: 100%;
-	text-align: center;
-	}
-	form {
-	color: red;
-	font-family: courier;
-	font-size: 160%;
-	text-align: center;
-	}
-	.button {
-	font: bold 11px Arial;
-	text-decoration: none;
-	background-color: white;
-	color: Black;
-	padding: 2px 6px 2px 6px;
-	border-top: 1px solid #CCCCCC;
-	border-right: 1px solid #333333;
-	border-bottom: 1px solid #333333;
-	border-left: 1px solid #CCCCCC;
-	}
-	h6 {
-	color: white;
-	font-family: courier;
-	font-size: 80%;
-	text-align: center;
-	}
-	</style>
-	</head>
-	<body style="background-color:black">
-	<h1>The UGA Men's Tennis Team</h1>
-	<table align="center">
-	<tr>
-	<td><img src="UGA Mens Tennis 1.jpg" alt="Ignacio Nacho" width="512" height="288"></td>
-	<td><img src="UGA Mens Tennis 3.png" alt="UGA Tennis Center" width="288" height="288"></td>
-	<td><img src="UGA Mens Tennis 2.jpg" alt="Emil Reinberg" width="512" height="288"></td>
-	</tr>
-	</table>
-	<h2>This Year's Team</h2>
-	<p>This year, there are eleven players on the team's official roster.</p>
-	<p>There are three seniors:</p>
-	<ul>
-	<li>Andy Martinez (Atlanta, GA)</li>
-	<li>Wayne Montgomery (Somerset West, South Africa)</li>
-	<li>Paul Oosterbaan (Kalamazoo, MI)</li>
-	</ul>
-	<p>There are three juniors:</p>
-	<ul>
-	<li>Walker Duncan (Atlanta, GA)</li>
-	<li>Emil Reinberg (Atlanta, GA, Pictured Above)</li>
-	<li>Jan Zielinski (Warsaw, Poland)</li>
-	</ul>
-	<p>There are four sophomores:</p>
-	<ul>
-	<li>Samuel Dromsky (Augusta, GA)</li>
-	<li>Robert Loeb (Hilton Head, SC)</li>
-	<li>Alex Phillips (Peachtree City, GA)</li>
-	<li>Nathan Ponwith (Scottsdale, AZ)</li>
-  </body>
-  </html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html>
+<head>
+<metahttp-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> Shoe Budgeting </title>
+<style type= "text/css">
+  h1 {
+  color: Black;
+  font-family: Verdana;
+  font-size: 300%;
+  text-align: center;
+  }
+  h2 {
+    color: Black;
+    font-family: Verdana;
+    font size: 175%;
+    text-align: center;
+  }
+  p {
+    color: Black;
+    font-family: Verdana;
+    font-size: 175%;
+    text-align: center;
+  }
+  ul {
+    color: Black;
+    font-family: Verdana;
+    font-size: 175%;
+    text-align: "center";
+  }
+  ol {color: Black;
+    font-family: Verdana;
+    font-size: 175%;
+    text-align: "center";
+  }
+  a {color: Black;
+  }
+  blockquote { 
+    color: White;
+    font-family: Verdana;
+    text-align: "center";
+  }
+  form {
+    color: Red;
+    font-family: Verdana;
+    font-size: 150%;
+    text-align: "center";
+  }
+  h6 {
+    color: Black;
+    font-family: Verdana;
+    font-size: 100%;
+    text-align: "center";
+  }
+</style>
+  
+</head>
+<body style="background-color: Maroon ">
+  <h1> Justifying a $600 Pair of Shoes </h1>
+  <table align="center">
+    <tr>
+       <td><img src="Jordan 1 Bred.jpg" alt="Jordan 1 Bred" width="350" height="168"></td>
+       <td><img src="Jordan 1 Reverse Shattered.jpg" alt="Jordan 1 Shattered Backboard" width="368" height="168"></td>
+       <td><img src="Off White Air Force 1.jpg" alt="Nike Air Force 1 Off-White" width="304" height="168"></td>
+                </tr>
+  </table>
+    <h2> My Original Purchases </h2>
+      <p> Most people don't realize that a lot of limited edition shoes hold their value and even can increase their value depending on market trends, number of pairs, colorways, etc.
+        I actually enjoy keeping up with as much about shoe pricing as I can, which can be used to my advantage when it comes to buying and selling my shoes.  To start my story of
+        justyfing a $600 pair of shoes, I'm going to start with two pairs of Jordan 1's that I managed to purchase for pretty good deals.</p>
+        <ul> 
+         <li> Reverse Shattered Backboard Jordan 1's: $160 </li>
+         <li> Jordan 1 Bred's: $220 </li>
+        </ul>
+    <h2>Selling Both Pairs</h2>
+      <p> After wearing both pairs probably around 10 times each, keeping them in good shape, I sold them to an online sneaker shop, Direct Kicks.  I was able to get good money for these
+    shoes as the demand for Jordan 1's has increased over the last year.</p>
+        <ul>
+          <li> Sold as a Package Deal: $575 </li>
+        </ul>
+      <p> To see Direct Kick's website, click <a href="https://www.directkicks.com/">here</a>.</p>
+    <h2> Reinvesting </h2>
+      <p> I wanted to use the money I made from selling the two Jordan 1's to invest in an even nicer pair of shoes. I had my eyes on the recent collaboration between Nike and designer brand
+        Off-White.  As part of their collaboration, Nike released 10 very exclusive run colorways of popular Nike shoes.
+     </p>
+    <h2> List of the 10 Off-White Nike Shoes</h2>
+      <ol>
+        <li> Jordan 1 </li>
+        <li> Nike Hyperdunk </li>
+        <li> Nike Vapormax </li>
+        <li> Nike Air Max 97 </li>
+        <li> Converse All Star </li>
+        <li> Nike Presto </li>
+        <li> Nike Air Force 1 </li>
+        <li> Nike Air Max 90 </li>
+        <li> Nike Blazer </li>
+        <li> Nike Zoom Fly </li>
+    </ol>
+    <p> I decided to buy the Nike Air Force One Off-White's since their resell prices were sort of in the middle of the whole collections resell prices.  They also seemed more durable
+      than a lot of the other shoes from the collection and would look good regardless if I chose to wear them with pants or shorts.  I watched several youtube reviews on the shoes before
+      making my final decision.
+    </p>
+    <h2> Attached Video Review </h2>
+    <table>
+      <tr>
+         <td>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/CzWp1vL3E-w" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/CzQp1vL3E-w" frameborder="0" gesture="media" allowfullscreen></td>
+      </tr>
+    </table>
+  
+    <h2> Buying the Shoes </h2>
+    <p> After watching prices on the Air Force 1's for about a week on a website called StockX, I finally purchased the shoes for $600.  Paying this much for a pair of shoes will sound ridiculous
+      most people including my parents.  However, funny enough, the prices on these shoes have increased even more since I bought them.  If you check today according to StockX the average price
+      for a new pair of these shoes runs between $800-$882.  Though I have not kept my pair new, as long as I keep them in good condition after wearing them, I will most likely be able to get more
+      money out of selling them then I paid for them new, which completely justifies my $600 spent on the shoes.
+    </p>
+    
+
+</body>
+</html>
